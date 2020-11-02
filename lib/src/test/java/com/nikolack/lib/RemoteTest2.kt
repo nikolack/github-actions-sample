@@ -18,7 +18,7 @@ class RemoteTest2 {
 
     @Test
     fun test2() {
-        assertEquals(388, 1 + 2)
+        assertEquals(3, 1 + 2)
     }
 
     @Test
